@@ -3,8 +3,8 @@
 C# & MySQL UI Library Management System
 
 
-![](assets/a.png)
-![](assets/b.png)
-![](assets/c.png)
-![](assets/d.png)
+![](Assets/a.png)
+![](Assets/b.png)
+![](Assets/c.png)
+![](Assets/d.png)
 
