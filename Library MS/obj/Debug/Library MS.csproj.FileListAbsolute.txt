@@ -1,0 +1,27 @@
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\Library MS.exe.config
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\Library MS.exe
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\Library MS.pdb
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.DBSettings.resources
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.Properties.Resources.resources
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library MS.csproj.GenerateResource.Cache
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library MS.exe
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library MS.pdb
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.Splash.resources
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.Main.resources
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.AddBook.resources
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.AddUser.resources
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.AddRent.resources
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.BookPanel.resources
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.RentPanel.resources
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\obj\Debug\Library_MS.UserPanel.resources
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\Microsoft.CSharp.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\MySql.Data.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\System.Data.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\System.Deployment.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\System.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\System.Drawing.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\System.Windows.Forms.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\System.Xml.dll
+C:\Users\qrati\onedrive\belgeler\visual studio 2012\Projects\Library MS\Library MS\bin\Debug\System.Xml.Linq.dll
